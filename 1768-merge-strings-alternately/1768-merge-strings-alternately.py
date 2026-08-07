@@ -5,13 +5,15 @@ class Solution(object):
         :type word2: str
         :rtype: str
         """
-        final = ""
-        for char1,char2 in zip(word1,word2):
-                final = final + char1 + char2
-        if len(word1)>len(word2):
-            n = len(word2)
-            final = final + word1[n:]
-        if len(word2)>len(word1):
-            n = len(word1)
-            final = final + word2[n:]
-        return final
+        i=0
+        j=0
+        new_string=""
+        len_word1=len(word1)
+        len_word2=len(word2)
+        while(i<len_word1 and j<len_word2):
+            new_string+=word1[i]+word2[j]
+            i+=1
+            j+=1
+        new_string+=word1[i:]
+        new_string+=word2[j:]
+        return new_string
