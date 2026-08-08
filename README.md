@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Nipun746/DSA/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Nipun746/DSA/tree/master/0014-longest-common-prefix) |
 | [0392-is-subsequence](https://github.com/Nipun746/DSA/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/Nipun746/DSA/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
@@ -24,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Nipun746/DSA/tree/master/0392-is-subsequence) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Nipun746/DSA/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Nipun746/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
