@@ -3,15 +3,12 @@ class Solution(object):
         profit = 0
         max_profit = 0
 
-        minimum = prices[0]
+        minimum = float('inf')
+        for price in prices:
+            if  price < minimum:
+                minimum = price
+            profit = price - minimum
 
-        for i in range(1, len(prices)):
-            if prices[i] < minimum:
-                minimum = prices[i]
-
-            profit = prices[i] - minimum
-
-            if profit > max_profit:
+            if max_profit < profit :
                 max_profit = profit
-
         return max_profit
