@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Nipun746/DSA/tree/master/0014-longest-common-prefix) |
+| [0056-merge-intervals](https://github.com/Nipun746/DSA/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nipun746/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0228-summary-ranges](https://github.com/Nipun746/DSA/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Nipun746/DSA/tree/master/0238-product-of-array-except-self) |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Nipun746/DSA/tree/master/0238-product-of-array-except-self) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Nipun746/DSA/tree/master/0056-merge-intervals) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Nipun746/DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
