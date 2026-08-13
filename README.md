@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Nipun746/DSA/tree/master/0014-longest-common-prefix) |
+| [0054-spiral-matrix](https://github.com/Nipun746/DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Nipun746/DSA/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nipun746/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0228-summary-ranges](https://github.com/Nipun746/DSA/tree/master/0228-summary-ranges) |
@@ -50,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Nipun746/DSA/tree/master/0056-merge-intervals) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Nipun746/DSA/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Nipun746/DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
