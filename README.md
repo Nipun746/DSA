@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nipun746/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Nipun746/DSA/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nipun746/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Nipun746/DSA/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/Nipun746/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Nipun746/DSA/tree/master/0054-spiral-matrix) |
