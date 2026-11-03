@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Nipun746/DSA/tree/master/0027-remove-element) |
 | [0392-is-subsequence](https://github.com/Nipun746/DSA/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/Nipun746/DSA/tree/master/1768-merge-strings-alternately) |
 ## String
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Nipun746/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Nipun746/DSA/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/Nipun746/DSA/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/Nipun746/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Nipun746/DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Nipun746/DSA/tree/master/0054-spiral-matrix) |
